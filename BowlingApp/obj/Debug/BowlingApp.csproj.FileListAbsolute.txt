@@ -1,0 +1,16 @@
+E:\C#_Learning\ConsoleApp1\BowlingApp\bin\Debug\BowlingApp.exe.config
+E:\C#_Learning\ConsoleApp1\BowlingApp\bin\Debug\BowlingApp.exe
+E:\C#_Learning\ConsoleApp1\BowlingApp\bin\Debug\BowlingApp.pdb
+E:\C#_Learning\ConsoleApp1\BowlingApp\obj\Debug\BowlingApp.csproj.AssemblyReference.cache
+E:\C#_Learning\ConsoleApp1\BowlingApp\obj\Debug\BowlingApp.csproj.SuggestedBindingRedirects.cache
+E:\C#_Learning\ConsoleApp1\BowlingApp\obj\Debug\BowlingApp.csproj.CoreCompileInputs.cache
+E:\C#_Learning\ConsoleApp1\BowlingApp\obj\Debug\BowlingApp.exe
+E:\C#_Learning\ConsoleApp1\BowlingApp\obj\Debug\BowlingApp.pdb
+E:\C#_Learning\Bowling_App\BowlingApp\bin\Debug\BowlingApp.exe.config
+E:\C#_Learning\Bowling_App\BowlingApp\bin\Debug\BowlingApp.exe
+E:\C#_Learning\Bowling_App\BowlingApp\bin\Debug\BowlingApp.pdb
+E:\C#_Learning\Bowling_App\BowlingApp\obj\Debug\BowlingApp.csproj.AssemblyReference.cache
+E:\C#_Learning\Bowling_App\BowlingApp\obj\Debug\BowlingApp.csproj.SuggestedBindingRedirects.cache
+E:\C#_Learning\Bowling_App\BowlingApp\obj\Debug\BowlingApp.csproj.CoreCompileInputs.cache
+E:\C#_Learning\Bowling_App\BowlingApp\obj\Debug\BowlingApp.exe
+E:\C#_Learning\Bowling_App\BowlingApp\obj\Debug\BowlingApp.pdb
